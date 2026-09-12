@@ -8,7 +8,7 @@
 
 <br>
 
-This is where I *store* things that I've built (or currently building), *that's literally it*. Primarily used to do stuffs based on spontaneous short-term motivation, so expect bizzare or ~~abandoned~~ unfinished repo.
+This is where I *store* things I'm currently building (or have built), *that's literally it*. Primarily doing stuffs based on *spontaneous-short-term-motivation*, so expect bizzare or ~~abandoned~~ unfinished repo.
 
 ### 🔗 Links
 
