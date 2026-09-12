@@ -17,7 +17,7 @@ This is where I *store* things that I've built (or currently building), *that's 
         justify-content: flex-start
         align-items: center;
         flex-wrap: wrap;
-        gap: .5rem
+        gap: 1rem
     "
 >
     <a
@@ -25,13 +25,13 @@ This is where I *store* things that I've built (or currently building), *that's 
         target="_blank"
         rel="noopener noreferrer"
     >
-        <code><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square" alt="adamrachman on LinkedIn"></code>
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square" alt="adamrachman on LinkedIn">
     </a>
     <a
         href="https://adamrachmanlearn.github.io/thoughts"
         target="_blank"
         rel="noopener noreferrer"
     >
-        <code><img src="https://img.shields.io/badge/Blog-grey?style=flat-square&logo=github" alt="adamrachman's blog"></code>
+        <img src="https://img.shields.io/badge/Blog-grey?style=flat-square&logo=github" alt="adamrachman's blog">
     </a>
 </div>
