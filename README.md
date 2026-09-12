@@ -14,28 +14,4 @@ This is where I *store* things that I've built (or currently building), *that's 
 
 <a href="https://linkedin.com/in/adamrachman"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square" alt="adamrachman on LinkedIn"></a>
 <a href="https://adamrachmanlearn.github.io/thoughts"><img src="https://img.shields.io/badge/Blog-grey?style=flat-square&logo=github" alt="adamrachman's blog"></a>
-
-<!-- <div style=
-    "
-        display: flex;
-        justify-content: flex-start
-        align-items: center;
-        flex-wrap: wrap;
-        gap: 1rem
-    "
->
-    <a
-        href="https://linkedin.com/in/adamrachman"
-        target="_blank"
-        rel="noopener noreferrer"
-    >
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square" alt="adamrachman on LinkedIn">
-    </a>
-    <a
-        href="https://adamrachmanlearn.github.io/thoughts"
-        target="_blank"
-        rel="noopener noreferrer"
-    >
-        <img src="https://img.shields.io/badge/Blog-grey?style=flat-square&logo=github" alt="adamrachman's blog">
-    </a>
-</div> -->
+<a href="mailto:adamrachman45@gmail.com"><img src="https://img.shields.io/badge/Send_email-red?style=flat-square&logo=gmail&logoColor=white" alt="Send me an email!"></a>
