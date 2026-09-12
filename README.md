@@ -24,16 +24,18 @@ This is where I *store* things that I've built (or currently building), *that's 
         href="https://linkedin.com/in/adamrachman"
         target="_blank"
         rel="noopener noreferrer"
-        style="text-decoration: none"
     >
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square" alt="adamrachman on LinkedIn">
+        <code>
+            <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square" alt="adamrachman on LinkedIn">
+        </code>
     </a>
     <a
         href="https://adamrachmanlearn.github.io/thoughts"
         target="_blank"
         rel="noopener noreferrer"
-        style="text-decoration: none"
     >
-        <img src="https://img.shields.io/badge/Blog-grey?style=flat-square&logo=github" alt="adamrachman's blog">
+        <code>
+            <img src="https://img.shields.io/badge/Blog-grey?style=flat-square&logo=github" alt="adamrachman's blog">
+        </code>
     </a>
 </div>
