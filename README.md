@@ -11,7 +11,23 @@
 This is where I *store* things that I've built (or currently building), *that's literally it*. Primarily used to do stuffs based on curiosity, so expect bizzare or ~~abandoned~~ unfinished repo.
 
 ### 🔗 Links
-<div style=
+
+<a
+    href="https://linkedin.com/in/adamrachman"
+    target="_blank"
+    rel="noopener noreferrer"
+>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square" alt="adamrachman on LinkedIn">
+</a>
+<a
+    href="https://adamrachmanlearn.github.io/thoughts"
+    target="_blank"
+    rel="noopener noreferrer"
+>
+    <img src="https://img.shields.io/badge/Blog-grey?style=flat-square&logo=github" alt="adamrachman's blog">
+</a>
+
+<!-- <div style=
     "
         display: flex;
         justify-content: flex-start
@@ -34,4 +50,4 @@ This is where I *store* things that I've built (or currently building), *that's 
     >
         <img src="https://img.shields.io/badge/Blog-grey?style=flat-square&logo=github" alt="adamrachman's blog">
     </a>
-</div>
+</div> -->
