@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-<img src="./assets/gifs/sticker.gif" height=100px></img>
+<img src="./assets/gifs/sticker.gif" height=150px></img>
 </div>
 
 <br>
