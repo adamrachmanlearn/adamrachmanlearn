@@ -13,4 +13,4 @@ This is where I *store* things I'm currently learning (or have learned), *that's
 ### 🔗 Links
 
 <a href="https://linkedin.com/in/adamrachman"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square" alt="adamrachman on LinkedIn"></a>
-<a href="https://adamrachmanlearn.github.io/thoughts"><img src="https://img.shields.io/badge/Blog-grey?style=flat-square&logo=github" alt="adamrachman's blog"></a>
+<a href="https://incetera.notion.site/Reading-list-3cb24287341380a58559d59e14c3f2ba?source=copy_link"><img src="https://img.shields.io/badge/Reading_list-grey?style=flat-square&logo=notion" alt="adamrachman's reading list"></a>
