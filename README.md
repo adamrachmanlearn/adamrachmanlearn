@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-<img src="./assets/gifs/sticker.gif" height=148px></img>
+<img src="./assets/gifs/sticker.gif" height=150px></img>
 </div>
 
 <br>
@@ -17,6 +17,6 @@ This is where I *store* things I'm currently learning (or have learned), that's 
 
 ### 📊 Stats
 
-![Github stats](https://github-stats-extended.vercel.app/api?username=adamrachmanlearn&show_icons=true&hide_rank=true&card_width=500px&custom_title=GitHub%20Stats)
+[![Github stats](https://github-stats-extended.vercel.app/api?username=adamrachmanlearn&show_icons=true&hide_rank=true&card_width=500px&custom_title=GitHub%20Stats&theme=gruvbox_light)](https://github.com/stats-organization/github-stats-extended)
 
-![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=adamrachmanlearn&layout=compact&card_width=500px&custom_title=Top%20Languages)
+[![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=adamrachmanlearn&layout=compact&card_width=500px&custom_title=Top%20Languages&theme=gruvbox_light)](https://github.com/stats-organization/github-stats-extended)
