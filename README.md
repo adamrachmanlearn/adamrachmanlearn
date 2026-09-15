@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:98bbd9,100:c1d886&height=140&section=header&text=Hello,%20there%20👋&fontSize=24&fontColor=c6d0f5&animation=fadeIn&fontAlignY=30" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:98bbd9,100:c1d886&height=140&section=header&text=Hello,%20there%20👋&fontSize=24&fontColor=4c4f69&animation=fadeIn&fontAlignY=30" width="100%"/>
 
 <div align="center">
 <img src="./assets/gifs/sticker.gif" height=150px></img>
