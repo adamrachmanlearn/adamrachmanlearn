@@ -1,4 +1,4 @@
-<h2 align="center">Hello, there 👋</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:98bbd9,100:c1d886&height=200&section=header&text=Hello,%20there%20👋&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <br>
 
