@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:98bbd9,100:c1d886&height=140&section=header&text=Hello,%20there%20👋&fontSize=24&fontColor=4c4f69&animation=fadeIn&fontAlignY=30" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:98bbd9,100:c1d886&height=140&section=header&text=Hello,%20there%20👋&fontSize=24&fontColor=c6d0f5&animation=fadeIn&fontAlignY=30" width="100%"/>
 
 <div align="center">
 <img src="./assets/gifs/sticker.gif" height=150px></img>
@@ -10,9 +10,9 @@ This is where I *store* things I'm currently learning (or have learned), that's 
 
 ### 📊 Stats
 
-[![Github stats](https://github-stats-extended.vercel.app/api?username=adamrachmanlearn&show_icons=true&hide_rank=true&card_width=500px&custom_title=GitHub%20Stats&theme=gruvbox_light)](https://github.com/stats-organization/github-stats-extended)
+[![Github stats](https://github-stats-extended.vercel.app/api?username=adamrachmanlearn&show_icons=true&hide_rank=true&card_width=500px&custom_title=GitHub%20Stats)](https://github.com/stats-organization/github-stats-extended)
 
-[![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=adamrachmanlearn&card_width=500px&custom_title=Top%20Languages&theme=gruvbox_light)](https://github.com/stats-organization/github-stats-extended)
+[![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=adamrachmanlearn&card_width=500px&custom_title=Top%20Languages)](https://github.com/stats-organization/github-stats-extended)
 
 ### 🔗 Links
 
