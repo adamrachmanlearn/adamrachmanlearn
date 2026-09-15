@@ -12,7 +12,7 @@ This is where I *store* things I'm currently learning (or have learned), that's 
 
 [![Github stats](https://github-stats-extended.vercel.app/api?username=adamrachmanlearn&show_icons=true&hide_rank=true&card_width=500px&custom_title=GitHub%20Stats)](https://github.com/stats-organization/github-stats-extended)
 
-[![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=adamrachmanlearn&card_width=500px&custom_title=Top%20Languages)](https://github.com/stats-organization/github-stats-extended)
+[![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=adamrachmanlearn&card_width=500px)](https://github.com/stats-organization/github-stats-extended)
 
 ### 🔗 Links
 
