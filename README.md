@@ -14,3 +14,11 @@ This is where I *store* things I'm currently learning (or have learned), that's 
 
 <a href="https://linkedin.com/in/adamrachman"><img src="https://img.shields.io/badge/LinkedIn-98bbd9?style=flat-square" alt="adamrachman on LinkedIn"></a>
 <a href="https://incetera.notion.site/Reading-list-3cb24287341380a58559d59e14c3f2ba?source=copy_link"><img src="https://img.shields.io/badge/Reading_list-c1d886?style=flat-square" alt="adamrachman's reading list"></a>
+
+### 📊 Stats
+
+[![Github stats](https://github-stats-extended.vercel.app/api?username=adamrachmanlearn&show_icons=true&hide_title=true&hide_rank=true)](https://github.com/stats-organization/github-stats-extended)
+
+### 🔤 Top Languages
+
+[![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=adamrachmanlearn&hide_title=true)](https://github.com/stats-organization/github-stats-extended)
